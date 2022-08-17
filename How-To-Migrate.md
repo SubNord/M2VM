@@ -114,7 +114,7 @@ Remember to remove the variable `gcp_credentials_file_path` from gcp_varaibles.t
 Initialize and validate the terraform configuration.  \
 
 ```
-terraform initialize
+terraform init
 terraform validate
 terraform plan
 ```
