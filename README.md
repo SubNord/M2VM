@@ -1,6 +1,8 @@
 # Automated Network Deployment: Multicloud VPN - GCP-AWS VPN
 
+Disclaimer: Refer to [How-To-Migrate.md](./How-To-Migrate.md) to see how to use the repo to delploy migration reseources in sandbox accounts. This ReadMe is by Google and is not appropriate for Sandbox accounts. 
 Disclaimer: This is not an official Google product.
+
 
 Demonstration of Terraform for automated deployment of network infrastructure in
 both Google Cloud Platform (GCP) and Amazon Web Services (AWS). This is a
